@@ -1,6 +1,7 @@
 # Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision
 
 ## **Overview**
+Official codebase for T2DA: **T**ext-to-**D**ecision **A**gent: Offline Meta-Reinforcement Learning from Natural Language Supervision. Paper link:[[ArXiv]](https://arxiv.org/abs/2504.15046).
 
 ## **Installation**
 Experiments require MuJoCo and Metaworld. Follow the instructions in the [[MuJoCo]](https://github.com/openai/mujoco-py)[[Metaworld]](https://github.com/Farama-Foundation/Metaworld) to install.
